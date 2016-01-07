@@ -3,8 +3,8 @@ package pom.framework;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-//import org.openqa.selenium.interactions.Actions;
 
+//buddy
 public class HomePage extends PageClass{
 	
 	private WebElement AgeVerify;
@@ -24,7 +24,7 @@ public class HomePage extends PageClass{
 		delayFor(2000);
 		return Category;
 	
-}`
+}
 	public WebElement SelectProduct(){
 		//Actions action = new Actions(driver);
 		//WebElement mouseover = driver.findElement(By.xpath(".//*[@class='options-container']"));
